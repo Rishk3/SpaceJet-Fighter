@@ -1,0 +1,15 @@
+{
+  "name": "spacecraft-game",
+  "author": "Rishk3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.7.13"
+  }
+}
